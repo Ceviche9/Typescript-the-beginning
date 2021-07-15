@@ -20,7 +20,7 @@
 1. Make a clone of this repository;
 2. Change into the `cd Typescript-the-beginning` folder;
 3. Run `yarn` inside the `backend` and `frontend` folders to install the dependencies ;
-4. In the `backend` folder run `yarn dev:server` to start the development server;
+4. In the `backend` folder run `yarn dev` to start the development server;
 5. In the `frontend` folder run `yarn start` to start the development server;
 
 ## 📝 License
