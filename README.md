@@ -15,7 +15,7 @@
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://pt-br.reactjs.org/)
 
-## 🔥 How to install and run
+## 🔥 How to use
 
 1. Make a clone of this repository;
 2. Change into the `cd Typescript-the-beginning` folder;
